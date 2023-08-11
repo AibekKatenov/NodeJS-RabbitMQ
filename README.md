@@ -11,4 +11,4 @@ git clone https://github.com/AibekKatenov/NodeJS-RabbitMQ.git
 ###
 cd NodeJS-RabbitMQ
 ###
-docker-compose up build
+docker-compose up --build
